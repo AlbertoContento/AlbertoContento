@@ -44,7 +44,9 @@ Me esfuerzo por escribir código limpio y mantenible aplicando los principios SO
 ## 📌 Proyectos Destacados
 
 📸 [Proyecto 1](https://github.com/AlbertoContento/Instagram) - Una red social inspirada en Instagram donde los usuarios pueden compartir fotos, seguir a otros usuarios y dar "me gusta" a publicaciones.
+
 🔹 Funcionalidades principales:
+
 ✅ Autenticación de usuarios: Registro, inicio de sesión, cierre de sesión y restablecimiento de contraseña.
 
 ✅ Perfil de usuario: Foto de perfil, biografía y lista de seguidores/seguidos.
@@ -60,14 +62,21 @@ Me esfuerzo por escribir código limpio y mantenible aplicando los principios SO
 ✅ Mensajes directos (DMs): Envío de mensajes privados entre usuarios.
 
 🛠️ Tecnologías usadas:
+
 Backend: Django, Django REST Framework
+
 Frontend: HTML, CSS y algo de JavaScript
+
 Base de datos: SqlLite
+
 Autenticación: Django Authentication
+
 Despliegue: Despliegue del proyecto en DigitalOcean con CloudPanel y uso de servidores Nginx y configuracion de un subdominio Instagram.pruebas-alberto.online
 
 📥 [Proyecto 2](https://github.com/AlbertoContento/Peliculas) - Un sistema automatizado de descargas con qBittorrent, desarrollado en Django, que permite la gestión y control remoto de torrents.
+
 🔹 Funcionalidades principales:
+
 ✅ Interfaz web: Panel de control accesible desde GoogleCrome.
 
 ✅ Gestión de torrents: Agregar y eliminar torrent de manera automatica pudiendo modificar cantidad de descargas.
@@ -83,9 +92,13 @@ Despliegue: Despliegue del proyecto en DigitalOcean con CloudPanel y uso de serv
 ✅ Autenticación de usuarios: Acceso con credenciales para administrar las descargas.
 
 🛠️ Tecnologías usadas:
+
 Backend: Python.
+
 Frontend: Psibilidad de aplicacion de bittorrent asi como Google Crome para ver estado de copias de enlaces etc.
+
 Cliente de Torrents: qBittorrent (API Web)
+
 Gestión de archivos: Python
 
 Encuentra más en [mis repositorios](https://github.com/tuusuario?tab=repositories) 📂
