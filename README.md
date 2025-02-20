@@ -46,11 +46,17 @@ Me esfuerzo por escribir código limpio y mantenible aplicando los principios SO
 📸 [Proyecto 1](https://github.com/AlbertoContento/Instagram) - Una red social inspirada en Instagram donde los usuarios pueden compartir fotos, seguir a otros usuarios y dar "me gusta" a publicaciones.
 🔹 Funcionalidades principales:
 ✅ Autenticación de usuarios: Registro, inicio de sesión, cierre de sesión y restablecimiento de contraseña.
+
 ✅ Perfil de usuario: Foto de perfil, biografía y lista de seguidores/seguidos.
+
 ✅ Publicaciones: Subir imágenes con descripciones, fecha de publicación y hashtags.
+
 ✅ Likes y comentarios: Posibilidad de dar "me gusta" y comentar publicaciones.
+
 ✅ Seguir/Dejar de seguir usuarios: Un sistema de seguidores/seguidos con feed personalizado.
+
 ✅ Feed principal: Muestra publicaciones de usuarios seguidos en orden cronológico o por relevancia.
+
 ✅ Mensajes directos (DMs): Envío de mensajes privados entre usuarios.
 
 🛠️ Tecnologías usadas:
@@ -63,11 +69,17 @@ Despliegue: Despliegue del proyecto en DigitalOcean con CloudPanel y uso de serv
 📥 [Proyecto 2](https://github.com/AlbertoContento/Peliculas) - Un sistema automatizado de descargas con qBittorrent, desarrollado en Django, que permite la gestión y control remoto de torrents.
 🔹 Funcionalidades principales:
 ✅ Interfaz web: Panel de control accesible desde GoogleCrome.
+
 ✅ Gestión de torrents: Agregar y eliminar torrent de manera automatica pudiendo modificar cantidad de descargas.
+
 ✅ Monitoreo de carpetas: Detecta automáticamente archivos .torrent o enlaces magnéticos en una carpeta específica y los añade a qBittorrent.
+
 ✅ Filtrado inteligente: Descarga solo torrents que cumplen con ciertos criterios.
+
 ✅ Integración con qBittorrent Web API: Comunicación directa con el cliente de torrents.
+
 ✅ Gestión de almacenamiento: Mueve automáticamente los archivos descargados a carpetas organizadas.
+
 ✅ Autenticación de usuarios: Acceso con credenciales para administrar las descargas.
 
 🛠️ Tecnologías usadas:
