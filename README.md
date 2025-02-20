@@ -63,15 +63,15 @@ Me esfuerzo por escribir código limpio y mantenible aplicando los principios SO
 
 🛠️ Tecnologías usadas:
 
-Backend: Django, Django REST Framework
+🔹 **Backend:** Django, Django REST Framework
 
-Frontend: HTML, CSS y algo de JavaScript
+🔹 **Frontend:** HTML, CSS y algo de JavaScript
 
-Base de datos: SqlLite
+🔹 **Base de datos:** SqlLite
 
-Autenticación: Django Authentication
+🔹 **Autenticación:** Django Authentication
 
-Despliegue: Despliegue del proyecto en DigitalOcean con CloudPanel y uso de servidores Nginx y configuracion de un subdominio Instagram.pruebas-alberto.online
+🔹 **Despliegue:** Despliegue del proyecto en DigitalOcean con CloudPanel y uso de servidores Nginx y configuracion de un subdominio Instagram.pruebas-alberto.online
 
 📥 [Proyecto 2](https://github.com/AlbertoContento/Peliculas) - Un sistema automatizado de descargas con qBittorrent, desarrollado en Django, que permite la gestión y control remoto de torrents.
 
