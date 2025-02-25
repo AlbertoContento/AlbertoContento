@@ -23,7 +23,8 @@
 🔹 **Frontend:** HTML, CSS, JavaScript (React, Vue.js, Angular, Typescript)  
 🔹 **Bases de datos:** MySQL, MongoDB  
 🔹 **Blockchain:** Solidity, Web3.js (aprendiendo)  
-🔹 **Inteligencia Artificial:** Python (TensorFlow, PyTorch, scikit-learn) (en proceso de aprendizaje) 
+🔹 **Inteligencia Artificial:** Python (TensorFlow, PyTorch, scikit-learn) (en proceso de aprendizaje)
+
 🔹 **Control de versiones:** Git & GitHub  
 🔹 **Metodologías:** Agile, Scrum  
 
