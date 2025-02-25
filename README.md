@@ -8,7 +8,7 @@
 
 ## 🔹 Sobre mí
 
-- 🖥️ 8 años de experiencia como técnico informático autónomo.
+- 🖥️ 8 años de experiencia como autónomo de técnico informático.
 - 🎓 Máster en Programación Full-Stack
 - 🔜 Próximo Máster en Desarrollo Blockchain e Inteligencia Artificial
 - 💡 Apasionado por la tecnología y el aprendizaje continuo
@@ -24,7 +24,6 @@
 🔹 **Bases de datos:** MySQL, MongoDB  
 🔹 **Blockchain:** Solidity, Web3.js (aprendiendo)  
 🔹 **Inteligencia Artificial:** Python (TensorFlow, PyTorch, scikit-learn) (en proceso de aprendizaje)
-
 🔹 **Control de versiones:** Git & GitHub  
 🔹 **Metodologías:** Agile, Scrum  
 
